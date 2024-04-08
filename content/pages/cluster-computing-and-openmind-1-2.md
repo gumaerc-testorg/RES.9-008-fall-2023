@@ -11,5 +11,5 @@ uid: 313dd04c-f019-416b-be57-3396acc25a04
 
 **Videos:**
 
--  [Cluster Computing and OpenMind \[Part 1\]](https://youtu.be/QTvNTEh04to)
--  [Cluster Computing and OpenMind \[Part 2\]](https://youtu.be/w4Fdj9t3xRc)
+-  {{% resource_link "10487d59-6ce0-44a8-8a79-b472c18152bd" "Cluster Computing and OpenMind \[Part 1\]" %}}
+-  {{% resource_link "f54ae359-0bc4-45be-96f6-028dc8a21889" "Cluster Computing and OpenMind \[Part 2\]" %}}
