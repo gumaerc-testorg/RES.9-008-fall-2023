@@ -7,7 +7,7 @@ uid: bcfb6663-dc89-493f-ab55-dba657acd592
 ---
 **Taught by:** *Eli Pollock, MIT (November 19, 2020)*
 
-**Video:** [Linear Analysis of RNN Dynamics](https://youtu.be/bu2zGyJwESA)
+**Video:** {{% resource_link "affbbac0-1142-481a-8151-029251cca1f1" "Linear Analysis of RNN Dynamics" %}}
 
 **Description:** Recurrent neural networks (RNNs) are a powerful model for neural and cognitive phenomena. However, interpreting these models can be a challenge. In this tutorial, we will discuss how dynamical systems theory provides some tools for understanding RNNs. In particular, we will focus on the theory and application of linearizing RNN dynamics around fixed points. We will then look at some computational tools that have been developed around this framework.
 
@@ -15,5 +15,5 @@ uid: bcfb6663-dc89-493f-ab55-dba657acd592
 
 **Additional Resources:**
 
-- [Slides](http://docs.google.com/presentation/d/1ukbGr1q9oERq2BHyaRR1-KIZxn3SrQDAik02-nvPuNQ/)
-- [Colab notebook with the exercises](http://colab.research.google.com/drive/1VN4C8UWdTSvQ7LJ5FyaCVPNsDWOVVqm0)
+- {{% resource_link "41b0052d-6a62-433a-aa5d-9ecbd2cd2185" "Slides" %}}
+- {{% resource_link "d05db92f-4c4c-4738-98a1-a10c8da153d8" "Colab notebook with the exercises" %}}
