@@ -7,18 +7,18 @@ uid: 65ffac4c-e91c-4918-9128-f41961ae8717
 ---
 **Taught by:** *Larry Abbott, Columbia University (June 10, 2015)*
 
-**Video:** {{% resource_link "f940931a-55d1-4bc4-8d5a-0b5370549a46" "Learning in Recurrent Neural Networks" %}} (1:16:39)
+**Video:** [Learning in Recurrent Neural Networks](https://youtu.be/YV6T2YtAtDA) (1:16:39)
 
 **Description:** Introduction to recurrent neural networks and their application to modeling and understanding real neural circuits.
 
-**Slides:** {{% resource_link "bc9434eb-752f-4ede-b140-6e175914582f" "Learning in Recurrent Neural Networks (PDF)" %}}
+**Slides:** [Learning in Recurrent Neural Networks (PDF)](https://cbmm.mit.edu/sites/default/files/learning-hub/MITSent.pdf)
 
 **Additional Resources:**
 
-- {{% resource_link "6d98c6c8-813d-4fb6-93e9-64d17124ef2a" "Notes on Boerlin, Machens and Deneve (learning in recurrent spiking network)" %}} - Larry Abbott's notes 
-- {{% resource_link "32e61e75-cd14-4a2f-90a4-f600972047f1" "Exercises" %}}
-- {{% resource_link "43f388be-796f-4de5-b0dc-eda9812e5e34" "Recursive Least-Squares Algorithm" %}} - Larry Abbott's notes
-- Sompolinsky, H., Crisanti, A., and Sommers, H. J. (1988) "{{% resource_link "356abc40-dcc7-4d4a-b5cf-fff7282c4fda" "Chaos in Random Neural Networks" %}}." *Physical Review Letters* 61: 259.
-- Rajan, K., Abbott, L. F. & Sompolinsky, H. (2010) {{% resource_link "367b0549-dc05-44cb-9f33-8350d0f97bb4" "\"Stimulus-Dependent Suppression of Chaos in Recurrent Neural Networks.\"" %}} *Physical Review E* 82: 011903.
-- Sussillo, D. & Abbott, L. F. (2009) {{% resource_link "2584c05a-9520-4bff-ad10-5075c900ee12" "\"Generating Coherent Patterns of Activity from Chaotic Neural Networks.\"" %}} *Neuron* 63: 544–557.
-- Boerlin, M., Machens, C. K. & Deneve, S. (2013) {{% resource_link "0912bec3-7b97-4bd2-af31-9ef37bad065b" "Predictive coding of dynamic variables in balanced spiking networks" %}}, *PLoS Computational Biology* 9: e1003258.
+- [Notes on Boerlin, Machens and Deneve (learning in recurrent spiking network)](https://cbmm.mit.edu/sites/default/files/learning-hub/BMDNotes2.pdf) - Larry Abbott's notes 
+- [Exercises](https://cbmm.mit.edu/sites/default/files/learning-hub/MITClass.pdf)
+- [Recursive Least-Squares Algorithm](https://cbmm.mit.edu/sites/default/files/learning-hub/RLS.pdf) - Larry Abbott's notes
+- Sompolinsky, H., Crisanti, A., and Sommers, H. J. (1988) "[Chaos in Random Neural Networks](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.61.259)." *Physical Review Letters* 61: 259.
+- Rajan, K., Abbott, L. F. & Sompolinsky, H. (2010) ["Stimulus-Dependent Suppression of Chaos in Recurrent Neural Networks."](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.82.011903) *Physical Review E* 82: 011903.
+- Sussillo, D. & Abbott, L. F. (2009) ["Generating Coherent Patterns of Activity from Chaotic Neural Networks."](https://ac.els-cdn.com/S0896627309005479/1-s2.0-S0896627309005479-main.pdf?_tid=1cc72958-65d3-4a8b-ab6e-681691731ec4&acdnat=1533158751_387c02c0f333f934e81a5742b74c4664) *Neuron* 63: 544–557.
+- Boerlin, M., Machens, C. K. & Deneve, S. (2013) [Predictive coding of dynamic variables in balanced spiking networks](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003258), *PLoS Computational Biology* 9: e1003258.
