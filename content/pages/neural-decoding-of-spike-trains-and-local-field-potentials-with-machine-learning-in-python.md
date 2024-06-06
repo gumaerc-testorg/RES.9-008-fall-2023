@@ -8,7 +8,7 @@ uid: 1665b5d2-1535-4c27-adf1-374443c1c266
 ---
 **Taught by:** *Omar Costilla Reyes (April 2, 2019)*
 
-**Video:** {{% resource_link "873d87b9-9a40-43a8-a6c6-b67e1b7ca3ea" "Neural Decoding of Spike Trains and Local Field Potentials with Machine Learning in Python" %}}
+**Video:** [Neural Decoding of Spike Trains and Local Field Potentials with Machine Learning in Python](https://cbmm.mit.edu/video/neural-decoding-spike-trains-and-local-field-potentials-machine-learning-python)
 
 **Description:** Neural decoding has applications in neuroscience from understanding neural populations to building brain-computer interfaces. In this computational tutorial, I will introduce neural decoding principles from a machine learning perspective using the Python programming language. The tutorial will be focused on data preprocessing, model selection, and optimization for decoding neural information from spike trains and local field potentials. The studied dataset contains neural information from six cortical areas of the macaque brain spanning from the frontal to the occipital lobe.
 
@@ -16,6 +16,6 @@ uid: 1665b5d2-1535-4c27-adf1-374443c1c266
 
 **Additional Resources:**
 
-To follow along with the tutorial, bring a laptop with Anaconda Python 3.7 installed. {{% resource_link "12f2abfc-f749-458d-9078-27b051a40777" "Download for Windows/MacOS/Linux" %}}.
+To follow along with the tutorial, bring a laptop with Anaconda Python 3.7 installed. [Download for Windows/MacOS/Linux](https://www.anaconda.com/distribution/).
 
-Computational tutorial references and videos can be found on our {{% resource_link "005251d6-4ba1-4f32-9de6-197b2c374e54" "Stellar site" %}}.
+Computational tutorial references and videos can be found on our [Stellar site](https://stellar.mit.edu/S/project/bcs-comp-tut/index.html).
