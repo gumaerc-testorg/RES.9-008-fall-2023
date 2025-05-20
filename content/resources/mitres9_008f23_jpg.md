@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-9-008-brain-and-cognitive-sciences-computational-tutorials/mitres9_008f23.jpg
+file: courses/bcs-computational-tutorials/mitres9_008f23.jpg
 file_size: 5609822
 file_type: image/jpeg
 image_metadata:
