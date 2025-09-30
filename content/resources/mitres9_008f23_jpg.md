@@ -8,8 +8,8 @@ file_type: image/jpeg
 image_metadata:
   caption: 'Tractography provides a visual representation of the nerve tracts in the
     brain. In this case, the visualization represents a healthy human subject. (Image
-    by Matteo Frigo on [Flickr](https://www.flickr.com/photos/matheofrigo/50986078467/in/photolist-HUK8fw-2oEaGsB-JViccw-2kFsYNp-adqeWH-adt5db-adt5u5-adt59o-adqf4a-adqeSX-adqf8B-TQCxSS).
-    License: CC BY.)'
+    by Matteo Frigo on {{% resource_link "1905cecd-b06d-4883-b550-cb0847e597b8" "Flickr"
+    %}}. License: CC BY.)'
   credit: ''
   image-alt: A multicolored visualization that represents the nerve tracts in a human
     brain.

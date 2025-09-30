@@ -7,7 +7,7 @@ uid: f80015fa-db8f-4bce-9c4f-c340386d8f2e
 ---
 **Taught by:** *Maddie Pelz, MIT (September 3, 2020)*
 
-**Video:** [Using Lookit to Run Developmental Studies Online](https://youtu.be/5-aMd-tlDUc)
+**Video:** {{% resource_link "befded9a-1b45-411d-b3da-21d442afb286" "Using Lookit to Run Developmental Studies Online" %}}
 
 **Description:** 
 
@@ -15,4 +15,4 @@ Lookit is an online platform for designing and running asynchronous developmenta
 
 During this tutorial, we will discuss why researchers might be interested in Lookit and what types of capabilities it has, as well as go through a demo on how studies are structured and how to get started with designing a study to fit your needs. Those who are not working in development but are collecting other behavioral research online can also learn more about how to make online studies engaging and intuitive in order to get the best quality data possible. 
 
-The demo will be done through a shared screen, but you can also make a researcher account at [https://lookit.mit.edu/](https://www.youtube.com/redirect?event=video_description&v=5-aMd-tlDUc&q=https%3A%2F%2Flookit.mit.edu%2F&redir_token=QUFFLUhqbXRzUmtkZlJ4X0F6QUx2NFBENHJRZGcxQTNRZ3xBQ3Jtc0ttLVpraF9PeEJPUE0tRUVtcTBoQ0FMQklOT19ZazNndVpzREFXSEt0NFpxYVk3dlY1N2ZEUEVkTzEzVk45TE9qOUhMRzBCcW8xTVh5TlJnb3JRb281WW1FclF2bm9TSU5CZnp5WDlBejVJQmFsTDl0NA%3D%3D) if you'd like to work on your own computer or continue to develop a study after the tutorial.
+The demo will be done through a shared screen, but you can also make a researcher account at {{% resource_link "f41d25d6-0988-4a78-b224-a6f30dac0b76" "https://lookit.mit.edu/" %}} if you'd like to work on your own computer or continue to develop a study after the tutorial.
