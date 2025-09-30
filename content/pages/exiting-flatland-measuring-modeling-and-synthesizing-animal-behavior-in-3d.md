@@ -6,7 +6,7 @@ title: 'Exiting Flatland: Measuring, Modeling, and Synthesizing Animal Behavior 
   3D'
 uid: f5f5f588-8f8d-418f-b642-51491bd2db66
 ---
-**Video:**  [Exiting Flatland: Measuring, Modeling, and Synthesizing Animal Behavior in 3D](https://youtu.be/JjFKGQmcgJw)
+**Video:**  {{% resource_link "ba40d5e1-721f-47bb-9ba5-1d885387e443" "Exiting Flatland: Measuring, Modeling, and Synthesizing Animal Behavior in 3D" %}}
 
 **Taught by:** *Jesse Marshall, Harvard University (April 8, 2021)*
 

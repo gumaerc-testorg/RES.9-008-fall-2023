@@ -7,7 +7,7 @@ uid: 89e1061d-6f27-423a-8817-0c9e2dfa996c
 ---
 **Taught by:** *Robert Guangyu Yang, CBMM (August 30, 2021)*
 
-**Video:** [Recurrent Neural Networks for Cognitive Neuroscience](https://youtu.be/k5bQnPtX3wY)
+**Video:** {{% resource_link "f3f53026-d88f-45da-985e-a0c25d7a19b0" "Recurrent Neural Networks for Cognitive Neuroscience" %}}
 
 **Description:** In this hands-on tutorial, we will work together through a number of coding exercises to see how RNNs can be easily used to study cognitive neuroscience questions. We will train and analyze RNNs on various cognitive neuroscience tasks. Familiarity with Python and basic knowledge of Pytorch are assumed.
 
@@ -17,5 +17,5 @@ uid: 89e1061d-6f27-423a-8817-0c9e2dfa996c
 
 Collab notebooks:
 
-- [Exercises with explanations but no answers](https://colab.research.google.com/github/gyyang/nn-brain/blob/master/RNN_tutorial.ipynb)
-- [Exercises with explanations and answers](https://colab.research.google.com/drive/1UL8DkhThsepHxPTVIPg8DpzVgCge6_7q)
+- {{% resource_link "58464989-e83f-4ee4-a95a-ad7c6f977d0f" "Exercises with explanations but no answers" %}}
+- {{% resource_link "10700093-6679-4de9-8850-6d5f28c2c6b7" "Exercises with explanations and answers" %}}
