@@ -7,14 +7,14 @@ uid: 0324b929-c04a-4fc5-9f8b-935dbbbce261
 ---
 **Taught by:** *Sam Norman-Haignere, MIT (January 21, 2016)* 
 
-**Video:** [Dimensionality Reduction II](https://youtu.be/PdzklMbRvlk) (29:54)
+**Video:** {{% resource_link "a9fe86b1-a0df-48aa-bafd-8694ee7704ba" "Dimensionality Reduction II" %}} (29:54)
 
 **Description:** Dimensionality reduction using the method of independent components analysis, and its application to the analysis of fMRI data.
 
-**Slides:** [Dimensionality Reduction II (PDF)](https://cbmm.mit.edu/sites/default/files/learning-hub/ICA-Tutorial-2SNH.pdf)
+**Slides:** {{% resource_link "2e49a5d2-a760-4553-b2c5-66815c5ae55b" "Dimensionality Reduction II (PDF)" %}}
 
 **Additional Resources:**
 
-- [Exercises](https://cbmm.mit.edu/sites/default/files/learning-hub/ica-exercise.zip)
-- Hyvarinen, A. & Oja, E. (2000) ["Independent Component Analysis: Algorithms and Applications."](https://www.cs.helsinki.fi/u/ahyvarin/papers/NN00new.pdf) *Neural Networks* 13(4–5): 411–430.
-- Bell, A. J. & Sejnowski, T. J. (1995) ["An Information-Maximization Approach to Blind Separation and Blind Deconvolution."](https://cbmm.mit.edu/sites/default/files/learning-hub/Bell_Sejnowski_1995.pdf) *Neural Computation* 7: 1129–1159.
+- {{% resource_link "7da188ca-935f-409b-835e-811878ecbcad" "Exercises" %}}
+- Hyvarinen, A. & Oja, E. (2000) {{% resource_link "9b486c0e-20c4-4f62-85f9-e3cd87458cdb" "\"Independent Component Analysis: Algorithms and Applications.\"" %}} *Neural Networks* 13(4–5): 411–430.
+- Bell, A. J. & Sejnowski, T. J. (1995) {{% resource_link "4e6aa81e-d8d4-40f1-addf-d044c274671c" "\"An Information-Maximization Approach to Blind Separation and Blind Deconvolution.\"" %}} *Neural Computation* 7: 1129–1159.
